@@ -32,18 +32,9 @@
 
 - **[HyPaper](https://github.com/GlooveyOff/HyPaper)** — менеджер анимированных обоев для Hyprland
 
-### 📊 Статистика
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GlooveyOff&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlooveyOff&layout=compact&hide_border=true" alt="Top languages" height="165" />
-
-</div>
-
 ### 📫 Как связаться
 
-Пишите через профиль GitHub — [@GlooveyOff](https://github.com/GlooveyOff)
+[![Telegram](https://img.shields.io/badge/Telegram-@gloovey-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/gloovey)
 
 <!---
 GlooveyOff/GlooveyOff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
