@@ -38,7 +38,7 @@ Lamoda, DNS, Мегамаркет, Ситилинк, М.Видео + общая 
 
 | Репозиторий | Роль |
 |---|---|
-| [`onwill-extension`](https://github.com/GlooveyOff/onwill-extension) | расширение для Chrome/Firefox (Manifest V3) |
+| [`onwill-extension`] | расширение для Chrome/Firefox (Manifest V3) |
 | `onwill-backend` | API `/api/stores`, отдаёт актуальные промокоды |
 | `onwill-site` | сайт [onwill.ru](https://onwill.ru) |
 
